@@ -1,0 +1,49 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;Cabrerizos C.F.;C.D. Cristo Rey Barrio Vidal;2;1;C.M. Vicente del Bosque de Cabrerizos
+2026-09-19;1;"U.D. Santa Marta de Tormes ""B""";C.D. Peñaranda de Bracamonte;2;1;C.M. Alfonso San Casto
+2026-09-19;1;C.D.F. Helmántico;"C.D. Munibar Pizarrales ""B""";3;2;C.M. Ángel Pérez Huerta 2
+2026-09-19;1;Alba de Tormes C.F.;"C.D. Navega ""B""";3;0;C.M. La Dehesa
+2026-09-19;1;C.D. Villamayor;C.D. Carbajosa de la Sagrada;4;0;C.M. El Salinar
+2026-09-19;1;Ciudad Rodrigo C.F.;"Unionistas de Salamanca C.F. ""C""";2;4;C.M. Toñete
+2026-09-20;1;C.D. Ribert;C.D. Guijuelo;5;0;C.M. El Zurguén
+2026-09-26;2;C.D. Peñaranda de Bracamonte;C.D. Ribert;1;2;C.M. Luis García García
+2026-09-26;2;"C.D. Navega ""B""";"U.D. Santa Marta de Tormes ""B""";0;4;C.M. Vicente del Bosque de Salamanca
+2026-09-26;2;"Unionistas de Salamanca C.F. ""C""";Alba de Tormes C.F.;14;0;C.M. Anexos Reina Sofía
+2026-09-27;2;C.D. Carbajosa de la Sagrada;C.D.F. Helmántico;1;1;C.M. Justo Sánchez Paraíso
+2026-09-27;2;C.D. Cristo Rey Barrio Vidal;C.D. Villamayor;1;4;C.M. Ángel Pérez Huerta 2
+2026-09-27;2;Cabrerizos C.F.;C.D. Guijuelo;5;1;C.M. Vicente del Bosque de Cabrerizos
+2026-09-27;2;"C.D. Munibar Pizarrales ""B""";Ciudad Rodrigo C.F.;2;5;C.M. La Salud 2
+2026-10-03;3;Cabrerizos C.F.;C.D. Peñaranda de Bracamonte;3;0;C.M. Vicente del Bosque de Cabrerizos
+2026-10-03;3;Ciudad Rodrigo C.F.;C.D. Carbajosa de la Sagrada;0;1;C.M. Toñete
+2026-10-03;3;C.D. Villamayor;C.D.F. Helmántico;3;0;C.M. El Salinar
+2026-10-04;3;"U.D. Santa Marta de Tormes ""B""";"Unionistas de Salamanca C.F. ""C""";1;4;C.M. Alfonso San Casto
+2026-10-04;3;C.D. Cristo Rey Barrio Vidal;C.D. Guijuelo;4;1;C.M. Ángel Pérez Huerta 2
+2026-10-04;3;C.D. Ribert;"C.D. Navega ""B""";5;1;C.M. El Zurguén
+2026-10-04;3;Alba de Tormes C.F.;"C.D. Munibar Pizarrales ""B""";1;0;C.M. La Dehesa
+2026-10-10;4;C.D.F. Helmántico;Ciudad Rodrigo C.F.;2;3;C.M. Ángel Pérez Huerta 2
+2026-10-10;4;"C.D. Munibar Pizarrales ""B""";"U.D. Santa Marta de Tormes ""B""";4;0;C.M. La Salud 2
+2026-10-10;4;C.D. Peñaranda de Bracamonte;C.D. Cristo Rey Barrio Vidal;3;3;C.M. Luis García García
+2026-10-10;4;"C.D. Navega ""B""";Cabrerizos C.F.;1;1;C.M. Vicente del Bosque de Salamanca
+2026-10-10;4;"Unionistas de Salamanca C.F. ""C""";C.D. Ribert;8;1;C.M. Anexos Reina Sofía
+2026-10-11;4;C.D. Guijuelo;C.D. Villamayor;1;5;C.M. Graci
+2026-10-11;4;C.D. Carbajosa de la Sagrada;Alba de Tormes C.F.;4;3;C.M. Justo Sánchez Paraíso
+2026-10-17;5;"U.D. Santa Marta de Tormes ""B""";C.D. Carbajosa de la Sagrada;6;1;C.M. Alfonso San Casto
+2026-10-17;5;C.D. Ribert;"C.D. Munibar Pizarrales ""B""";4;2;C.M. El Zurguén
+2026-10-17;5;C.D. Villamayor;Ciudad Rodrigo C.F.;2;2;C.M. El Salinar
+2026-10-18;5;Cabrerizos C.F.;"Unionistas de Salamanca C.F. ""C""";1;4;C.M. Vicente del Bosque de Cabrerizos
+2026-10-18;5;C.D. Cristo Rey Barrio Vidal;"C.D. Navega ""B""";3;0;C.M. Ángel Pérez Huerta 2
+2026-10-18;5;Alba de Tormes C.F.;C.D.F. Helmántico;2;5;C.M. La Dehesa
+2026-10-18;5;C.D. Peñaranda de Bracamonte;C.D. Guijuelo;5;1;C.M. Luis García García
+2026-10-24;6;C.D.F. Helmántico;"U.D. Santa Marta de Tormes ""B""";4;1;C.M. Ángel Pérez Huerta 2
+2026-10-24;6;Ciudad Rodrigo C.F.;Alba de Tormes C.F.;5;1;C.M. Toñete
+2026-10-24;6;"C.D. Navega ""B""";C.D. Guijuelo;2;2;C.M. Vicente del Bosque de Salamanca
+2026-10-25;6;C.D. Peñaranda de Bracamonte;C.D. Villamayor;3;2;C.M. Luis García García
+2026-10-25;6;"C.D. Munibar Pizarrales ""B""";Cabrerizos C.F.;2;0;C.M. La Salud 2
+2026-10-25;6;"Unionistas de Salamanca C.F. ""C""";C.D. Cristo Rey Barrio Vidal;7;2;C.M. Chamberí
+2026-11-07;7;C.D. Peñaranda de Bracamonte;"C.D. Navega ""B""";4;0;C.M. Luis García García
+2026-11-07;7;C.D. Villamayor;Alba de Tormes C.F.;10;0;C.M. El Salinar
+2026-11-08;7;C.D. Guijuelo;"Unionistas de Salamanca C.F. ""C""";0;3;Estadio Municipal Luis Ramos
+2026-11-08;7;C.D. Cristo Rey Barrio Vidal;"C.D. Munibar Pizarrales ""B""";3;3;C.M. Ángel Pérez Huerta 2
+2026-11-08;7;Cabrerizos C.F.;C.D. Carbajosa de la Sagrada;1;2;C.M. Vicente del Bosque de Cabrerizos
+2026-11-08;7;"U.D. Santa Marta de Tormes ""B""";Ciudad Rodrigo C.F.;1;0;C.M. Alfonso San Casto
+2026-11-08;7;C.D. Ribert;C.D.F. Helmántico;2;2;C.M. El Zurguén

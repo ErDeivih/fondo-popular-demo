@@ -1,0 +1,90 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-05;1;Turégano C.F.;Atlético Mansillés;1;2;C.M. El Burgo
+2026-09-05;1;C.D. Palencia Cristo Atlético;Atlético Bembibre;0;2;E.M. Nueva Balastera
+2026-09-05;1;U.D. Santa Marta de Tormes;Arandina C.F.;1;0;C.M. Alfonso San Casto
+2026-09-06;1;"Salamanca C.F. UDS ""B""";C.D. La Virgen del Camino;1;2;Anexos Estadio Helmántico - Pistas Municipales
+2026-09-06;1;"Burgos C.F. S.A.D. ""B""";C.D. Villaralbo;1;0;C.D. de Castañares 3
+2026-09-06;1;Júpiter Leonés;C.D. Colegios Diocesanos;2;0;Area D. de Puente Castro 1
+2026-09-06;1;C.D. Calasanz de Soria;C.D. Guijuelo;1;0;José Andrés Diago 1
+2026-09-06;1;C.D. Almazán;"Unionistas de Salamanca C.F. ""B""";2;1;C.M. La Arboleda 2
+2026-09-06;1;"C.D. Mirandés S.A.D. ""B""";Palencia C.F. S.A.D.;0;2;C.M. Ence 1
+2026-09-12;2;C.D. Colegios Diocesanos;"Burgos C.F. S.A.D. ""B""";0;3;C.M. Sancti Spiritu B
+2026-09-12;2;"Unionistas de Salamanca C.F. ""B""";"Salamanca C.F. UDS ""B""";1;1;Anexos Estadio Helmántico - Pistas Municipales
+2026-09-12;2;Arandina C.F.;C.D. Almazán;1;1;C.M. Juan Carlos Higuero
+2026-09-12;2;Atlético Mansillés;C.D. Palencia Cristo Atlético;1;1;C.M. La Caldera
+2026-09-12;2;Turégano C.F.;C.D. Guijuelo;1;3;C.M. El Burgo
+2026-09-12;2;C.D. La Virgen del Camino;C.D. Calasanz de Soria;4;1;Los Dominicos
+2026-09-13;2;C.D. Villaralbo;U.D. Santa Marta de Tormes;1;2;C.M. Los Barreros
+2026-09-13;2;Palencia C.F. S.A.D.;Júpiter Leonés;0;1;E.M. Nueva Balastera
+2026-09-13;2;Atlético Bembibre;"C.D. Mirandés S.A.D. ""B""";1;1;C.M. Jesús Esteban Rodríguez 1
+2026-09-19;3;Turégano C.F.;C.D. La Virgen del Camino;0;1;C.M. El Burgo
+2026-09-19;3;C.D. Calasanz de Soria;"Unionistas de Salamanca C.F. ""B""";3;2;José Andrés Diago 1
+2026-09-19;3;C.D. Almazán;C.D. Villaralbo;2;2;C.M. La Arboleda 2
+2026-09-20;3;"Salamanca C.F. UDS ""B""";Arandina C.F.;3;4;Anexos Estadio Helmántico - Pistas Municipales
+2026-09-20;3;"Burgos C.F. S.A.D. ""B""";Palencia C.F. S.A.D.;3;0;C.D. de Castañares 3
+2026-09-20;3;Atlético Bembibre;Atlético Mansillés;0;2;C.M. Jesús Esteban Rodríguez 1
+2026-09-20;3;"C.D. Mirandés S.A.D. ""B""";Júpiter Leonés;0;1;C.M. Ence 1
+2026-09-20;3;U.D. Santa Marta de Tormes;C.D. Colegios Diocesanos;3;0;C.M. Alfonso San Casto
+2026-09-20;3;C.D. Palencia Cristo Atlético;C.D. Guijuelo;1;0;E.M. Nueva Balastera
+2026-09-26;4;"Unionistas de Salamanca C.F. ""B""";Turégano C.F.;0;0;Anexos Estadio Helmántico - Pistas Municipales
+2026-09-26;4;C.D. La Virgen del Camino;C.D. Palencia Cristo Atlético;0;1;Los Dominicos
+2026-09-26;4;Arandina C.F.;C.D. Calasanz de Soria;1;0;C.M. Juan Carlos Higuero
+2026-09-26;4;C.D. Villaralbo;"Salamanca C.F. UDS ""B""";4;0;C.M. Los Barreros
+2026-09-27;4;Atlético Mansillés;"C.D. Mirandés S.A.D. ""B""";1;0;C.M. La Caldera
+2026-09-27;4;Júpiter Leonés;"Burgos C.F. S.A.D. ""B""";0;0;Area D. de Puente Castro 1
+2026-09-27;4;C.D. Colegios Diocesanos;C.D. Almazán;1;1;C.M. Sancti Spiritu B
+2026-09-27;4;Palencia C.F. S.A.D.;U.D. Santa Marta de Tormes;3;0;E.M. Nueva Balastera
+2026-09-27;4;C.D. Guijuelo;Atlético Bembibre;1;2;C.M. Alfonso San Casto
+2026-10-03;5;Turégano C.F.;Arandina C.F.;1;1;C.M. El Burgo
+2026-10-03;5;C.D. Calasanz de Soria;C.D. Villaralbo;2;2;José Andrés Diago 1
+2026-10-03;5;"C.D. Mirandés S.A.D. ""B""";"Burgos C.F. S.A.D. ""B""";1;2;C.M. Ence 1
+2026-10-03;5;"Salamanca C.F. UDS ""B""";C.D. Colegios Diocesanos;1;0;Anexos Estadio Helmántico - Pistas Municipales
+2026-10-03;5;C.D. Almazán;Palencia C.F. S.A.D.;2;2;C.M. La Arboleda 2
+2026-10-04;5;C.D. Palencia Cristo Atlético;"Unionistas de Salamanca C.F. ""B""";3;0;E.M. Nueva Balastera
+2026-10-04;5;Atlético Bembibre;C.D. La Virgen del Camino;2;0;C.M. Jesús Esteban Rodríguez 1
+2026-10-04;5;U.D. Santa Marta de Tormes;Júpiter Leonés;2;0;C.M. Alfonso San Casto
+2026-10-10;6;"Unionistas de Salamanca C.F. ""B""";Atlético Bembibre;1;2;Anexos Estadio Helmántico - Pistas Municipales
+2026-10-10;6;"C.D. Mirandés S.A.D. ""B""";C.D. Guijuelo;0;2;C.M. Ence 1
+2026-10-10;6;C.D. La Virgen del Camino;Atlético Mansillés;1;0;Los Dominicos
+2026-10-10;6;C.D. Villaralbo;Turégano C.F.;2;2;C.M. Los Barreros
+2026-10-10;6;Arandina C.F.;C.D. Palencia Cristo Atlético;1;3;C.M. Juan Carlos Higuero
+2026-10-10;6;Júpiter Leonés;C.D. Almazán;5;2;Area D. de Puente Castro 1
+2026-10-11;6;C.D. Colegios Diocesanos;C.D. Calasanz de Soria;2;0;C.M. Sancti Spiritu B
+2026-10-11;6;"Burgos C.F. S.A.D. ""B""";U.D. Santa Marta de Tormes;1;1;C.D. de Castañares 3
+2026-10-11;6;Palencia C.F. S.A.D.;"Salamanca C.F. UDS ""B""";5;1;E.M. Nueva Balastera
+2026-10-17;7;Atlético Mansillés;"Unionistas de Salamanca C.F. ""B""";1;2;C.M. La Caldera
+2026-10-17;7;Atlético Bembibre;Arandina C.F.;1;1;C.M. Jesús Esteban Rodríguez 1
+2026-10-17;7;Turégano C.F.;C.D. Colegios Diocesanos;3;2;C.M. El Burgo
+2026-10-17;7;C.D. Calasanz de Soria;Palencia C.F. S.A.D.;0;1;José Andrés Diago 1
+2026-10-17;7;"Salamanca C.F. UDS ""B""";Júpiter Leonés;0;2;Anexos Estadio Helmántico - Pistas Municipales
+2026-10-18;7;C.D. Almazán;"Burgos C.F. S.A.D. ""B""";1;0;C.M. La Arboleda 2
+2026-10-18;7;"C.D. Mirandés S.A.D. ""B""";U.D. Santa Marta de Tormes;0;0;C.M. Ence 1
+2026-10-18;7;C.D. Palencia Cristo Atlético;C.D. Villaralbo;2;0;E.M. Nueva Balastera
+2026-10-18;7;C.D. Guijuelo;C.D. La Virgen del Camino;5;1;C.M. Alfonso San Casto
+2026-10-24;8;C.D. Colegios Diocesanos;C.D. Palencia Cristo Atlético;0;2;C.M. Sancti Spiritu B
+2026-10-24;8;C.D. La Virgen del Camino;"C.D. Mirandés S.A.D. ""B""";0;0;Los Dominicos
+2026-10-24;8;C.D. Villaralbo;Atlético Bembibre;2;0;C.M. Los Barreros
+2026-10-24;8;Palencia C.F. S.A.D.;Turégano C.F.;1;1;E.M. Nueva Balastera
+2026-10-24;8;U.D. Santa Marta de Tormes;C.D. Almazán;2;1;C.M. Alfonso San Casto
+2026-10-24;8;Arandina C.F.;Atlético Mansillés;2;2;C.M. Juan Carlos Higuero
+2026-10-25;8;"Unionistas de Salamanca C.F. ""B""";C.D. Guijuelo;0;1;Anexos Estadio Helmántico - Pistas Municipales
+2026-10-25;8;"Burgos C.F. S.A.D. ""B""";"Salamanca C.F. UDS ""B""";3;0;C.D. de Castañares 3
+2026-10-25;8;Júpiter Leonés;C.D. Calasanz de Soria;2;1;Area D. de Puente Castro 1
+2026-10-31;9;C.D. La Virgen del Camino;"Unionistas de Salamanca C.F. ""B""";2;1;Los Dominicos
+2026-10-31;9;Atlético Mansillés;C.D. Villaralbo;1;1;C.M. La Caldera
+2026-10-31;9;C.D. Calasanz de Soria;"Burgos C.F. S.A.D. ""B""";0;2;José Andrés Diago 1
+2026-10-31;9;"Salamanca C.F. UDS ""B""";U.D. Santa Marta de Tormes;0;2;Anexos Estadio Helmántico - Pistas Municipales
+2026-10-31;9;C.D. Palencia Cristo Atlético;Palencia C.F. S.A.D.;1;0;E.M. Nueva Balastera
+2026-11-01;9;Turégano C.F.;Júpiter Leonés;1;1;C.M. El Burgo
+2026-11-01;9;"C.D. Mirandés S.A.D. ""B""";C.D. Almazán;0;2;C.M. Ence 1
+2026-11-01;9;C.D. Guijuelo;Arandina C.F.;2;2;Estadio Municipal Luis Ramos
+2026-11-01;9;Atlético Bembibre;C.D. Colegios Diocesanos;1;1;C.M. Jesús Esteban Rodríguez 1
+2026-11-07;10;"Unionistas de Salamanca C.F. ""B""";"C.D. Mirandés S.A.D. ""B""";1;0;Anexos Estadio Helmántico - Pistas Municipales
+2026-11-07;10;C.D. Villaralbo;C.D. Guijuelo;2;0;C.M. Los Barreros
+2026-11-07;10;C.D. Colegios Diocesanos;Atlético Mansillés;2;2;C.M. Sancti Spiritu B
+2026-11-07;10;Júpiter Leonés;C.D. Palencia Cristo Atlético;0;0;Area D. de Puente Castro 1
+2026-11-07;10;U.D. Santa Marta de Tormes;C.D. Calasanz de Soria;5;0;C.M. Alfonso San Casto
+2026-11-08;10;"Burgos C.F. S.A.D. ""B""";Turégano C.F.;0;2;C.D. de Castañares 3
+2026-11-08;10;Arandina C.F.;C.D. La Virgen del Camino;0;0;C.M. Juan Carlos Higuero
+2026-11-08;10;C.D. Almazán;"Salamanca C.F. UDS ""B""";3;1;C.M. La Arboleda 2
+2026-11-08;10;Palencia C.F. S.A.D.;Atlético Bembibre;2;0;E.M. Nueva Balastera

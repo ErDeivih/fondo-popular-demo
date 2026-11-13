@@ -1,0 +1,43 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;C.D. Arcos de la Llana;Burgos C.F. S.A.D.;0;20;C.M. Arcos de la Llana 2
+2026-09-19;1;C.D. Juventud del Círculo Católico;Burgos U.D.;13;0;C.M. Pallafría 7
+2026-09-19;1;C.D. Grupo Antolín;Vadillos C.F.;3;2;Anexo C.M. Jose Manuel Sedano
+2026-09-19;1;C.D. Casco Viejo;C.D. Mirandés Promesas Charca;10;2;C.M. José García 3
+2026-09-19;1;Deportiva C.F.;C.D. Aranda Riber;2;4;Anexo C.D. Hernández Ballesteros
+2026-09-19;1;C.D. Groggys's Gamonal;C.D. Internacional Vista Alegre;2;8;C.M. Pallafría 7
+2026-09-19;1;C.D. San Pedro Buprocon;Capiscol C.F.;0;3;C.M. José María Santamaría Ausín 1.1
+2026-09-26;2;Vadillos C.F.;C.D. Juventud del Círculo Católico;4;1;C.M. Pallafría 7
+2026-09-26;2;Burgos C.F. S.A.D.;C.D. Groggys's Gamonal;10;0;C.D. de Castañares 5
+2026-09-26;2;Burgos U.D.;Deportiva C.F.;0;5;Anexo C.D. Hernández Ballesteros
+2026-09-26;2;Capiscol C.F.;C.D. Grupo Antolín;4;2;Anexo C.M. Jose Manuel Sedano
+2026-09-26;2;C.D. Aranda Riber;C.D. Casco Viejo;1;9;Anexo C.M. Juan Carlos Higuero 2.A
+2026-09-27;2;C.D. Internacional Vista Alegre;C.D. San Pedro Buprocon;3;2;Anexo C.M. Jose Manuel Sedano
+2026-09-27;2;C.D. Mirandés Promesas Charca;C.D. Arcos de la Llana;5;5;C.M. Ence 3
+2026-10-03;3;C.D. Casco Viejo;Burgos U.D.;15;0;C.M. José García 3
+2026-10-03;3;C.D. San Pedro Buprocon;Burgos C.F. S.A.D.;2;6;C.M. José María Santamaría Ausín 1.2
+2026-10-03;3;Deportiva C.F.;Vadillos C.F.;2;8;Anexo C.D. Hernández Ballesteros
+2026-10-04;3;C.D. Arcos de la Llana;C.D. Groggys's Gamonal;6;2;C.M. Arcos de la Llana 2
+2026-10-04;3;C.D. Mirandés Promesas Charca;C.D. Aranda Riber;1;9;C.M. Ence 3
+2026-10-04;3;C.D. Juventud del Círculo Católico;Capiscol C.F.;0;6;C.M. San Amaro 1.2
+2026-10-04;3;C.D. Grupo Antolín;C.D. Internacional Vista Alegre;2;6;C.M. San Amaro 2
+2026-10-08;4;C.D. Groggys's Gamonal;C.D. San Pedro Buprocon;0;11;C.M. José María Santamaría Ausín 1.1
+2026-10-10;4;Burgos C.F. S.A.D.;C.D. Grupo Antolín;5;0;C.D. de Castañares 5
+2026-10-10;4;Capiscol C.F.;Deportiva C.F.;4;1;Anexo C.D. Hernández Ballesteros
+2026-10-10;4;C.D. Internacional Vista Alegre;C.D. Juventud del Círculo Católico;6;3;Anexo C.M. Jose Manuel Sedano
+2026-10-10;4;C.D. Aranda Riber;C.D. Arcos de la Llana;7;2;Anexo C.M. Juan Carlos Higuero 2.A
+2026-10-11;4;Burgos U.D.;C.D. Mirandés Promesas Charca;3;3;Anexo C.M. Jose Manuel Sedano
+2026-10-11;4;Vadillos C.F.;C.D. Casco Viejo;5;4;Anexo C.M. Jose Manuel Sedano
+2026-10-17;5;C.D. Aranda Riber;Burgos U.D.;15;0;Anexo C.M. Juan Carlos Higuero 1.A
+2026-10-17;5;C.D. Mirandés Promesas Charca;Vadillos C.F.;0;5;C.M. Ence 3
+2026-10-17;5;C.D. Arcos de la Llana;C.D. San Pedro Buprocon;1;10;C.M. Arcos de la Llana 2
+2026-10-17;5;C.D. Casco Viejo;Capiscol C.F.;3;1;C.M. José García 3
+2026-10-17;5;Deportiva C.F.;C.D. Internacional Vista Alegre;1;3;Anexo C.D. Hernández Ballesteros
+2026-10-18;5;C.D. Juventud del Círculo Católico;Burgos C.F. S.A.D.;1;8;C.M. San Amaro 2
+2026-10-18;5;C.D. Grupo Antolín;C.D. Groggys's Gamonal;5;3;C.M. San Amaro 2
+2026-10-24;6;Burgos C.F. S.A.D.;Deportiva C.F.;11;0;C.D. de Castañares 5
+2026-10-24;6;C.D. Groggys's Gamonal;C.D. Juventud del Círculo Católico;0;7;Anexo C.M. Jose Manuel Sedano
+2026-10-24;6;Burgos U.D.;C.D. Arcos de la Llana;2;6;C.M. Pallafría 7
+2026-10-24;6;Vadillos C.F.;C.D. Aranda Riber;2;2;Anexo C.M. Jose Manuel Sedano
+2026-10-25;6;C.D. San Pedro Buprocon;C.D. Grupo Antolín;6;5;C.M. José María Santamaría Ausín 1.2
+2026-10-25;6;Capiscol C.F.;C.D. Mirandés Promesas Charca;11;2;C.M. Pallafría 9
+2026-10-25;6;C.D. Internacional Vista Alegre;C.D. Casco Viejo;8;3;C.M. Pallafría 8

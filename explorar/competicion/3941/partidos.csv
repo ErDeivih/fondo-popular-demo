@@ -1,0 +1,42 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;"C. y D. Cebrereña ""B""";Atlético Candeleda;1;2;C.M. El Mancho
+2026-09-20;1;C.D. Navatalgordo;U.D. Ramacastañas;2;1;E.M. La Casquera
+2026-09-20;1;Atlético Barraco C.F.;U.D. Serranillos;2;3;C.M. Alfredo Somoza
+2026-09-20;1;C.F. El Tiemblo;Casavieja C.F.;0;0;C.M. El Tinte
+2026-09-20;1;C.D. Popular Rayo Abulense;C.D. Bosco de Arévalo;3;0;C.M. Sancti Spiritu B
+2026-09-20;1;Deportivo Arenas C.F.;F.C. El Hoyo de Pinares;5;1;"C.M. José Luis Jara ""Pechu"""
+2026-09-20;1;C.D. Sotillo;C.D. Las Navas;1;1;C.M. El Teso de Sotillo de la Adrada
+2026-09-27;2;C.D. Las Navas;C.D. Popular Rayo Abulense;1;1;C.M. Las Navas
+2026-09-27;2;U.D. Serranillos;"C. y D. Cebrereña ""B""";2;1;C.M. Cerrito La Zorra
+2026-09-27;2;Atlético Barraco C.F.;Casavieja C.F.;0;4;C.M. Alfredo Somoza
+2026-09-27;2;Atlético Candeleda;C.D. Navatalgordo;2;1;C.M. El Llano
+2026-09-27;2;C.D. Bosco de Arévalo;Deportivo Arenas C.F.;2;2;C.M. Arévalo
+2026-09-27;2;U.D. Ramacastañas;C.D. Sotillo;0;1;C.M. Vicente Simón Delgado
+2026-09-27;2;F.C. El Hoyo de Pinares;C.F. El Tiemblo;8;4;C.M. San Miguel de Hoyo de Pinares
+2026-10-04;3;C.D. Navatalgordo;U.D. Serranillos;3;2;E.M. La Casquera
+2026-10-04;3;C.F. El Tiemblo;Atlético Barraco C.F.;1;0;C.M. El Tinte
+2026-10-04;3;F.C. El Hoyo de Pinares;C.D. Bosco de Arévalo;0;3;C.M. San Miguel de Hoyo de Pinares
+2026-10-04;3;C.D. Sotillo;Atlético Candeleda;1;1;C.M. El Teso de Sotillo de la Adrada
+2026-10-04;3;"C. y D. Cebrereña ""B""";Casavieja C.F.;4;3;C.M. El Mancho
+2026-10-04;3;C.D. Popular Rayo Abulense;U.D. Ramacastañas;3;0;C.M. Sancti Spiritu B
+2026-10-11;4;C.D. Las Navas;F.C. El Hoyo de Pinares;2;3;C.M. Las Navas
+2026-10-11;4;U.D. Serranillos;C.D. Sotillo;0;6;C.M. Cerrito La Zorra
+2026-10-11;4;C.D. Navatalgordo;Casavieja C.F.;3;3;E.M. La Casquera
+2026-10-11;4;Atlético Barraco C.F.;"C. y D. Cebrereña ""B""";0;4;C.M. Alfredo Somoza
+2026-10-11;4;C.D. Bosco de Arévalo;C.F. El Tiemblo;6;1;C.M. Arévalo
+2026-10-11;4;U.D. Ramacastañas;Deportivo Arenas C.F.;0;10;C.M. Vicente Simón Delgado
+2026-10-11;4;Atlético Candeleda;C.D. Popular Rayo Abulense;1;4;C.M. El Llano
+2026-10-18;5;C.D. Navatalgordo;Atlético Barraco C.F.;4;1;E.M. La Casquera
+2026-10-18;5;C.F. El Tiemblo;"C. y D. Cebrereña ""B""";2;1;C.M. El Tinte
+2026-10-18;5;C.D. Bosco de Arévalo;C.D. Las Navas;4;2;C.M. Arévalo
+2026-10-18;5;F.C. El Hoyo de Pinares;U.D. Ramacastañas;4;0;C.M. San Miguel de Hoyo de Pinares
+2026-10-18;5;Deportivo Arenas C.F.;Atlético Candeleda;0;2;"C.M. José Luis Jara ""Pechu"""
+2026-10-18;5;C.D. Popular Rayo Abulense;U.D. Serranillos;3;0;C.M. Sancti Spiritu B
+2026-10-18;5;C.D. Sotillo;Casavieja C.F.;1;0;C.M. El Teso de Sotillo de la Adrada
+2026-10-25;6;C.D. Las Navas;C.F. El Tiemblo;3;1;C.M. Las Navas
+2026-10-25;6;U.D. Serranillos;Deportivo Arenas C.F.;0;3;C.M. Cerrito La Zorra
+2026-10-25;6;Atlético Barraco C.F.;C.D. Sotillo;3;4;C.M. Alfredo Somoza
+2026-10-25;6;"C. y D. Cebrereña ""B""";C.D. Navatalgordo;4;0;C.M. El Mancho
+2026-10-25;6;U.D. Ramacastañas;C.D. Bosco de Arévalo;0;3;C.M. Vicente Simón Delgado
+2026-10-25;6;Atlético Candeleda;F.C. El Hoyo de Pinares;4;0;C.M. El Llano
+2026-10-25;6;Casavieja C.F.;C.D. Popular Rayo Abulense;3;7;C.M. Las Eras de Ávila

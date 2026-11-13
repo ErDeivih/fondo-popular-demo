@@ -1,0 +1,28 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;C.D. Segosala;"C.D. Segosala ""B""";16;2;P.M. Pedro Delgado 1.1
+2026-09-19;1;C.D. San Cristóbal de Segovia;"C.D. San Cristóbal de Segovia ""B""";10;0;P.M. San Cristóbal
+2026-09-19;1;Racing Cuéllar;"Racing Cuéllar ""B""";8;0;P.M. de Santa Clara
+2026-09-19;1;C.D. Valverde;"C.D. Valverde ""B""";7;5;P.M. Valverde del Majano
+2026-09-25;2;"Racing Cuéllar ""B""";C.D. San Cristóbal de Segovia;1;8;P.M. de Santa Clara
+2026-09-26;2;"C.D. San Cristóbal de Segovia ""B""";C.D. Segosala;0;4;P.M. San Cristóbal
+2026-09-26;2;"C.D. Valverde ""B""";Racing Cuéllar;3;11;P.M. Valverde del Majano
+2026-10-02;2;Sporting Nava de La Asunción;C.D. Valverde;9;4;Frontón M. Nava de la Asunción
+2026-10-02;3;C.D. San Cristóbal de Segovia;"C.D. Valverde ""B""";17;0;P.M. San Cristóbal
+2026-10-03;3;C.D. Segosala;"Racing Cuéllar ""B""";12;1;P.M. Pedro Delgado 1.2
+2026-10-03;3;C.D. Valverde;Racing Cuéllar;10;7;P.M. Valverde del Majano
+2026-10-04;3;Sporting Nava de La Asunción;"C.D. Segosala ""B""";9;0;Frontón M. Nava de la Asunción
+2026-10-10;4;"C.D. Segosala ""B""";C.D. Valverde;2;18;P.M. Pedro Delgado 1.1
+2026-10-10;4;Racing Cuéllar;C.D. San Cristóbal de Segovia;2;2;P.M. Santa Clara
+2026-10-10;4;"C.D. Valverde ""B""";C.D. Segosala;0;11;P.M. Valverde del Majano
+2026-10-10;4;"C.D. San Cristóbal de Segovia ""B""";Sporting Nava de La Asunción;1;11;P.M. San Cristóbal
+2026-10-17;5;C.D. Segosala;Racing Cuéllar;8;2;P.M. Pedro Delgado 1.1
+2026-10-17;5;C.D. Valverde;C.D. San Cristóbal de Segovia;4;2;P.M. Valverde del Majano
+2026-10-18;5;"C.D. Segosala ""B""";"C.D. San Cristóbal de Segovia ""B""";1;4;P.M. Pedro Delgado 1.2
+2026-10-18;5;Sporting Nava de La Asunción;"Racing Cuéllar ""B""";6;1;Frontón M. Nava de la Asunción
+2026-10-23;6;C.D. San Cristóbal de Segovia;C.D. Segosala;4;4;P.M. San Cristóbal
+2026-10-24;6;"Racing Cuéllar ""B""";"C.D. Segosala ""B""";12;2;P.M. Santa Clara
+2026-10-24;6;"C.D. Valverde ""B""";Sporting Nava de La Asunción;3;13;P.M. Valverde del Majano
+2026-10-25;6;"C.D. San Cristóbal de Segovia ""B""";C.D. Valverde;4;7;P.M. San Cristóbal
+2026-11-07;7;"C.D. Segosala ""B""";"C.D. Valverde ""B""";1;7;P.M. Pedro Delgado 1.2
+2026-11-07;7;Sporting Nava de La Asunción;Racing Cuéllar;8;2;Frontón M. Nava de la Asunción
+2026-11-07;7;C.D. Valverde;C.D. Segosala;5;4;P.M. Valverde del Majano
