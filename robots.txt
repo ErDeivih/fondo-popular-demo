@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /mi-cuenta
+Disallow: /mi-panel
+Disallow: /entrar
+Disallow: /crear-cuenta
+Disallow: /admin
+Sitemap: https://erdeivih.github.io/fondo-popular-demo/sitemap.xml
