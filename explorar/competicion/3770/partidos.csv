@@ -1,0 +1,72 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-12;1;C.D. Internacional Vista Alegre;C. y D. Cebrereña;1;1;C.M. José Luis Preciado
+2026-09-12;1;C.D. Astudillo;Real Ávila C.F. S.A.D. Promesas;2;2;C.M. La Joya
+2026-09-12;1;C.D. Belorado;C.D. Cantalejo;1;0;C.M. El Calvario
+2026-09-12;1;C.D. Coca;C.F. Briviesca Morato Group;1;1;C.M. Coca
+2026-09-12;1;"C.D. Numancia de Soria S.A.D. ""B""";C.D. Aranda Riber;1;0;C.D. Francisco Rubio 2
+2026-09-12;1;Villarcayo Nela C.F.;C.D. Villamuriel;1;0;C.M. El Soto
+2026-09-13;1;C.D. San José;Burgos International Football;0;1;C.M. San Juan
+2026-09-13;1;C.D. Becerril;C.D. Golmayo-Camaretas;4;1;C.M.D. Mariano Haro
+2026-09-19;2;C.D. Cantalejo;C.D. Becerril;0;3;C.M. El Hoyal
+2026-09-19;2;C.D. Astudillo;C.D. Belorado;3;2;C.M. La Joya
+2026-09-19;2;C.F. Briviesca Morato Group;Real Ávila C.F. S.A.D. Promesas;1;1;C.M. Diego Dávila Álvarez
+2026-09-19;2;C.D. Villamuriel;C.D. Coca;3;2;C.M. Rafael Vázquez Sedano
+2026-09-19;2;C.D. Aranda Riber;Villarcayo Nela C.F.;2;1;C.M. Juan Carlos Higuero
+2026-09-20;2;Burgos International Football;"C.D. Numancia de Soria S.A.D. ""B""";1;1;C.M. José Luis Preciado
+2026-09-20;2;C.D. Golmayo-Camaretas;C.D. Internacional Vista Alegre;3;2;C.M. Golmayo
+2026-09-20;2;C. y D. Cebrereña;C.D. San José;1;3;C.M. El Mancho
+2026-09-26;3;C.D. Internacional Vista Alegre;C.D. Cantalejo;2;1;C.M. José Luis Preciado
+2026-09-26;3;Villarcayo Nela C.F.;Burgos International Football;0;1;C.M. El Soto
+2026-09-26;3;C.D. Belorado;C.F. Briviesca Morato Group;1;1;C.M. El Calvario
+2026-09-26;3;C.D. Coca;C.D. Aranda Riber;3;3;C.M. Coca
+2026-09-26;3;Real Ávila C.F. S.A.D. Promesas;C.D. Villamuriel;1;2;C.M. Santiago Sanz
+2026-09-27;3;C. y D. Cebrereña;C.D. Golmayo-Camaretas;1;0;C.M. El Mancho
+2026-09-27;3;C.D. Becerril;C.D. Astudillo;2;1;C.M.D. Mariano Haro
+2026-10-03;4;C.D. Cantalejo;C. y D. Cebrereña;0;3;C.M. El Hoyal
+2026-10-03;4;C.D. Astudillo;C.D. Internacional Vista Alegre;1;4;C.M. La Joya
+2026-10-03;4;C.F. Briviesca Morato Group;C.D. Becerril;2;1;C.M. Diego Dávila Álvarez
+2026-10-03;4;C.D. Villamuriel;C.D. Belorado;2;2;C.M. Rafael Vázquez Sedano
+2026-10-03;4;"C.D. Numancia de Soria S.A.D. ""B""";Villarcayo Nela C.F.;0;1;C.D. Francisco Rubio 2
+2026-10-04;4;Burgos International Football;C.D. Coca;2;0;C.M. José Luis Preciado
+2026-10-04;4;C.D. Aranda Riber;Real Ávila C.F. S.A.D. Promesas;2;1;Pistas M.Juan Carlos Higuero
+2026-10-07;4;C.D. Golmayo-Camaretas;C.D. San José;2;3;C.M. Golmayo
+2026-10-10;5;C.D. Internacional Vista Alegre;C.F. Briviesca Morato Group;2;0;C.M. José Luis Preciado
+2026-10-10;5;Real Ávila C.F. S.A.D. Promesas;Burgos International Football;0;6;C.M. Santiago Sanz
+2026-10-10;5;C. y D. Cebrereña;C.D. Astudillo;1;0;C.M. El Mancho
+2026-10-10;5;C.D. Coca;"C.D. Numancia de Soria S.A.D. ""B""";0;3;C.M. Coca
+2026-10-10;5;C.D. San José;Villarcayo Nela C.F.;2;1;C.M. San Juan
+2026-10-11;5;C.D. Golmayo-Camaretas;C.D. Cantalejo;8;2;C.M. Golmayo
+2026-10-11;5;C.D. Becerril;C.D. Villamuriel;0;2;C.M.D. Mariano Haro
+2026-10-11;5;C.D. Belorado;C.D. Aranda Riber;2;0;C.M. El Calvario
+2026-10-17;6;Burgos International Football;C.D. Belorado;3;1;C.M. José Luis Preciado
+2026-10-17;6;C.F. Briviesca Morato Group;C. y D. Cebrereña;4;1;C.M. Diego Dávila Álvarez
+2026-10-17;6;C.D. Cantalejo;C.D. San José;1;3;C.M. El Hoyal
+2026-10-17;6;C.D. Astudillo;C.D. Golmayo-Camaretas;9;2;C.M. La Joya
+2026-10-17;6;C.D. Villamuriel;C.D. Internacional Vista Alegre;0;2;C.M. Rafael Vázquez Sedano
+2026-10-17;6;C.D. Aranda Riber;C.D. Becerril;2;1;C.M. Juan Carlos Higuero
+2026-10-17;6;Villarcayo Nela C.F.;C.D. Coca;7;0;C.M. El Soto
+2026-10-18;6;"C.D. Numancia de Soria S.A.D. ""B""";Real Ávila C.F. S.A.D. Promesas;1;1;C.D. Francisco Rubio 2
+2026-10-24;7;C.D. Internacional Vista Alegre;C.D. Aranda Riber;2;1;C.M. José Luis Preciado
+2026-10-24;7;C.D. Cantalejo;C.D. Astudillo;1;5;C.M. El Hoyal
+2026-10-24;7;C.D. Golmayo-Camaretas;C.F. Briviesca Morato Group;2;0;C.M. Golmayo
+2026-10-24;7;Real Ávila C.F. S.A.D. Promesas;Villarcayo Nela C.F.;0;1;C.M. Santiago Sanz
+2026-10-25;7;C.D. San José;C.D. Coca;2;0;C.M. San Juan
+2026-10-25;7;C. y D. Cebrereña;C.D. Villamuriel;1;1;C.M. El Mancho
+2026-10-25;7;C.D. Becerril;Burgos International Football;0;0;C.M.D. Mariano Haro
+2026-10-25;7;C.D. Belorado;"C.D. Numancia de Soria S.A.D. ""B""";2;1;C.M. El Calvario
+2026-10-31;8;C.F. Briviesca Morato Group;C.D. Cantalejo;1;0;C.M. Diego Dávila Álvarez
+2026-10-31;8;Burgos International Football;C.D. Internacional Vista Alegre;0;0;C.M. José Luis Preciado
+2026-10-31;8;C.D. Astudillo;C.D. San José;1;3;C.M. La Joya
+2026-10-31;8;C.D. Villamuriel;C.D. Golmayo-Camaretas;1;1;C.M. Rafael Vázquez Sedano
+2026-10-31;8;"C.D. Numancia de Soria S.A.D. ""B""";C.D. Becerril;0;3;C.D. Francisco Rubio 2
+2026-10-31;8;Villarcayo Nela C.F.;C.D. Belorado;3;0;C.M. El Soto
+2026-10-31;8;C.D. Coca;Real Ávila C.F. S.A.D. Promesas;2;1;C.M. Coca
+2026-10-31;8;C.D. Aranda Riber;C. y D. Cebrereña;0;0;C.M. Juan Carlos Higuero
+2026-11-07;9;C.D. Internacional Vista Alegre;"C.D. Numancia de Soria S.A.D. ""B""";0;1;C.M. José Luis Preciado
+2026-11-07;9;C.D. Astudillo;C.F. Briviesca Morato Group;1;1;C.M. La Joya
+2026-11-07;9;C.D. Cantalejo;C.D. Villamuriel;1;3;C.M. El Hoyal
+2026-11-07;9;C.D. Golmayo-Camaretas;C.D. Aranda Riber;0;4;C.M. Golmayo
+2026-11-07;9;C.D. San José;Real Ávila C.F. S.A.D. Promesas;3;2;C.M. San Juan
+2026-11-08;9;C. y D. Cebrereña;Burgos International Football;1;4;C.M. El Mancho
+2026-11-08;9;C.D. Becerril;Villarcayo Nela C.F.;1;1;C.M.D. Mariano Haro
+2026-11-08;9;C.D. Belorado;C.D. Coca;2;2;C.M. El Calvario

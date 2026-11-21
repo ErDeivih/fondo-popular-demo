@@ -1,0 +1,61 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;Sporting Nava de La Asunción Bar Bulevar;Laguna F.S.V.V. - Remax-;3;3;P.M. Bernardos
+2026-09-19;1;Venta de Baños F.S.;C.D. Sierra de la Mujer Muerta;4;5;P.M. Marta Domínguez
+2026-09-19;1;F.S. Cabezón;"C.D.I. Villaquilambre Futsal-Matallana ""B""";8;5;P.M. Cabezón de Pisuerga
+2026-09-19;1;C.F.S. Ciudad de Toro Prefabricados Duero;Cistierna F.S. Oxibier;0;3;Pabellón P.M. Fernando Marbán
+2026-09-19;1;C.F.S. La Bañeza Finura de Ibérico;C.D. Segosala Fundación Caja Rural de Segovia;6;4;P.M. La Bañeza
+2026-09-19;1;C.D. El Espinar Arlequín;C.D. Íscar Futsal Metálicas Íscar;1;18;"P.M. Javier Martín Velasco ""El Barbas"""
+2026-09-20;1;"F.S. Salamanca Hotel Emperatriz ""C""";C.D. Ávilasala;5;9;P.M. La Alamedilla
+2026-09-20;1;C.D. Arroyo F5 Consultax Asesores;"C.D. Inter Sala TRANSJAMÓN ""B""";4;2;P.M. Antonio Garnacho - La Flecha
+2026-09-26;2;Laguna F.S.V.V. - Remax-;C.F.S. La Bañeza Finura de Ibérico;3;2;P.M. Laguna de Duero
+2026-09-26;2;Cistierna F.S. Oxibier;"F.S. Salamanca Hotel Emperatriz ""C""";9;1;P.M. Cistierna
+2026-09-26;2;C.D. Íscar Futsal Metálicas Íscar;Venta de Baños F.S.;10;4;P.M. de Íscar
+2026-09-26;2;C.D. Sierra de la Mujer Muerta;C.F.S. Ciudad de Toro Prefabricados Duero;8;6;P.M. Otero de Herreros
+2026-09-26;2;"C.D.I. Villaquilambre Futsal-Matallana ""B""";C.D. Arroyo F5 Consultax Asesores;2;6;P.M. José Ferreiro García
+2026-09-27;2;"C.D. Inter Sala TRANSJAMÓN ""B""";C.D. El Espinar Arlequín;13;1;P.M. La Alamedilla
+2026-09-27;2;C.D. Ávilasala;Sporting Nava de La Asunción Bar Bulevar;7;2;P.M. Carlos Soria
+2026-09-27;2;C.D. Segosala Fundación Caja Rural de Segovia;F.S. Cabezón;4;10;P.M. Pedro Delgado
+2026-10-03;3;"F.S. Salamanca Hotel Emperatriz ""C""";C.D. Sierra de la Mujer Muerta;2;5;P.M. La Alamedilla
+2026-10-03;3;Sporting Nava de La Asunción Bar Bulevar;Cistierna F.S. Oxibier;1;11;Frontón M. Nava de la Asunción
+2026-10-03;3;Venta de Baños F.S.;"C.D. Inter Sala TRANSJAMÓN ""B""";5;2;P.M. Marta Domínguez
+2026-10-03;3;C.F.S. Ciudad de Toro Prefabricados Duero;C.D. Íscar Futsal Metálicas Íscar;4;5;Pabellón P.M. Fernando Marbán
+2026-10-03;3;Laguna F.S.V.V. - Remax-;C.D. Ávilasala;5;1;P.M. Laguna de Duero
+2026-10-03;3;C.D. Arroyo F5 Consultax Asesores;C.D. Segosala Fundación Caja Rural de Segovia;4;4;P.M. Antonio Garnacho - La Flecha
+2026-10-03;3;C.F.S. La Bañeza Finura de Ibérico;F.S. Cabezón;7;4;P.M. La Bañeza
+2026-10-04;3;C.D. El Espinar Arlequín;"C.D.I. Villaquilambre Futsal-Matallana ""B""";2;7;"P.M. Javier Martín Velasco ""El Barbas"""
+2026-10-09;4;Cistierna F.S. Oxibier;Laguna F.S.V.V. - Remax-;7;5;P.M. Cistierna
+2026-10-10;4;"C.D.I. Villaquilambre Futsal-Matallana ""B""";Venta de Baños F.S.;5;3;P.M. José Ferreiro García
+2026-10-10;4;C.D. Íscar Futsal Metálicas Íscar;"F.S. Salamanca Hotel Emperatriz ""C""";3;2;P.M. de Íscar
+2026-10-10;4;C.D. Sierra de la Mujer Muerta;Sporting Nava de La Asunción Bar Bulevar;5;2;P.M. Otero de Herreros
+2026-10-10;4;"C.D. Inter Sala TRANSJAMÓN ""B""";C.F.S. Ciudad de Toro Prefabricados Duero;5;9;P.M. La Alamedilla
+2026-10-11;4;C.D. Ávilasala;C.F.S. La Bañeza Finura de Ibérico;3;7;P.M. Carlos Soria
+2026-10-11;4;C.D. Segosala Fundación Caja Rural de Segovia;C.D. El Espinar Arlequín;12;1;P.M. Pedro Delgado
+2026-10-11;4;F.S. Cabezón;C.D. Arroyo F5 Consultax Asesores;6;2;P.M. Cabezón de Pisuerga
+2026-10-17;5;"F.S. Salamanca Hotel Emperatriz ""C""";"C.D. Inter Sala TRANSJAMÓN ""B""";3;5;P.M. La Alamedilla
+2026-10-17;5;Venta de Baños F.S.;C.D. Segosala Fundación Caja Rural de Segovia;3;5;P.M. Marta Domínguez
+2026-10-17;5;Laguna F.S.V.V. - Remax-;C.D. Sierra de la Mujer Muerta;3;4;P.M. Laguna de Duero
+2026-10-17;5;C.F.S. Ciudad de Toro Prefabricados Duero;"C.D.I. Villaquilambre Futsal-Matallana ""B""";7;0;Pabellón P.M. Fernando Marbán
+2026-10-17;5;C.F.S. La Bañeza Finura de Ibérico;C.D. Arroyo F5 Consultax Asesores;2;2;P.M. La Bañeza
+2026-10-18;5;Sporting Nava de La Asunción Bar Bulevar;C.D. Íscar Futsal Metálicas Íscar;3;2;Frontón M. Nava de la Asunción
+2026-10-18;5;C.D. Ávilasala;Cistierna F.S. Oxibier;1;7;P.M. Carlos Soria
+2026-10-18;5;C.D. El Espinar Arlequín;F.S. Cabezón;3;12;"P.M. Javier Martín Velasco ""El Barbas"""
+2026-10-24;6;C.D. Arroyo F5 Consultax Asesores;C.D. El Espinar Arlequín;19;0;P.M. Antonio Garnacho - La Flecha
+2026-10-24;6;F.S. Cabezón;Venta de Baños F.S.;7;3;P.M. Cabezón de Pisuerga
+2026-10-24;6;C.D. Íscar Futsal Metálicas Íscar;Laguna F.S.V.V. - Remax-;6;5;P.M. de Íscar
+2026-10-24;6;"C.D. Inter Sala TRANSJAMÓN ""B""";Sporting Nava de La Asunción Bar Bulevar;1;4;P.M. La Alamedilla
+2026-10-24;6;"C.D.I. Villaquilambre Futsal-Matallana ""B""";"F.S. Salamanca Hotel Emperatriz ""C""";2;4;P.M. de Navatejera
+2026-10-24;6;C.D. Sierra de la Mujer Muerta;C.D. Ávilasala;9;1;P.M. Otero de Herreros
+2026-10-25;6;C.D. Segosala Fundación Caja Rural de Segovia;C.F.S. Ciudad de Toro Prefabricados Duero;5;5;P.M. Pedro Delgado
+2026-10-30;7;C.F.S. Ciudad de Toro Prefabricados Duero;F.S. Cabezón;8;6;Pabellón P.M. Fernando Marbán
+2026-10-31;7;Sporting Nava de La Asunción Bar Bulevar;"C.D.I. Villaquilambre Futsal-Matallana ""B""";5;4;Frontón M. Nava de la Asunción
+2026-10-31;7;"F.S. Salamanca Hotel Emperatriz ""C""";C.D. Segosala Fundación Caja Rural de Segovia;3;8;P.M. La Alamedilla
+2026-10-31;7;Venta de Baños F.S.;C.D. Arroyo F5 Consultax Asesores;7;2;P.M. Marta Domínguez
+2026-10-31;7;C.F.S. La Bañeza Finura de Ibérico;C.D. El Espinar Arlequín;6;1;P.M. La Bañeza
+2026-10-31;7;Laguna F.S.V.V. - Remax-;"C.D. Inter Sala TRANSJAMÓN ""B""";4;4;P.M. Laguna de Duero
+2026-10-31;7;Cistierna F.S. Oxibier;C.D. Sierra de la Mujer Muerta;5;2;P.M. Cistierna
+2026-11-01;7;C.D. Ávilasala;C.D. Íscar Futsal Metálicas Íscar;7;2;P.M. Carlos Soria
+2026-11-07;8;C.D. Íscar Futsal Metálicas Íscar;Cistierna F.S. Oxibier;1;1;P.M. de Íscar
+2026-11-07;8;F.S. Cabezón;"F.S. Salamanca Hotel Emperatriz ""C""";3;1;P.M. Cabezón de Pisuerga
+2026-11-07;8;C.D. Sierra de la Mujer Muerta;C.F.S. La Bañeza Finura de Ibérico;3;1;P.M. Otero de Herreros
+2026-11-07;8;C.D. El Espinar Arlequín;Venta de Baños F.S.;0;9;"P.M. Javier Martín Velasco ""El Barbas"""
+2026-11-07;8;"C.D. Inter Sala TRANSJAMÓN ""B""";C.D. Ávilasala;6;6;P.M. Lazarillo de Tormes

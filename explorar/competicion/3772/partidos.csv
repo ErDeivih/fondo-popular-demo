@@ -1,0 +1,71 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-12;1;C.D. Fabero;C.D. Toreno;4;0;C.M. Fabero
+2026-09-12;1;C.D. Coyanza;Santa Ana F.S.;2;3;C.M. Valencia de Don Juan
+2026-09-12;1;C.D. Toralense;C.D. Arenas de Vega de Espinareda;2;0;C.M. La Mata
+2026-09-12;1;"C. y D. Leonesa S.A.D. ""C""";C.D. Ejido;3;3;Area D. de Puente Castro 3
+2026-09-12;1;C.D.F. Eria;Atlético Pinilla;3;0;C.M. El Humeral
+2026-09-13;1;C.D. Onzonilla;C.D. Naraya de Halterofilia;0;2;C.M.D. La Vega 2
+2026-09-13;1;C.D. Laciana;Atlético Puente Castro;2;1;C.M. Villablino
+2026-09-13;1;Atlético Trobajo H;"C.D. La Virgen del Camino ""B""";3;0;C.M. Rafa Tejerina
+2026-09-19;2;Santa Ana F.S.;Atlético Trobajo H;1;1;C.M. Cosamai
+2026-09-19;2;C.D. Toreno;C.D. Coyanza;1;4;C.M. El Campón
+2026-09-19;2;"C.D. La Virgen del Camino ""B""";"C. y D. Leonesa S.A.D. ""C""";1;3;Los Dominicos
+2026-09-19;2;C.D. Naraya de Halterofilia;C.D.F. Eria;1;0;C.M. Francisco Sobrín
+2026-09-20;2;C.D. Ejido;C.D. Toralense;1;0;C.M. La Granja
+2026-09-20;2;Atlético Puente Castro;C.D. Fabero;1;1;C.M. Puente Castro 2
+2026-09-20;2;Atlético Pinilla;C.D. Laciana;3;3;C.M. Emilio González
+2026-09-20;2;C.D. Arenas de Vega de Espinareda;C.D. Onzonilla;3;2;C.M. Luis del Olmo
+2026-09-26;3;Santa Ana F.S.;C.D. Toreno;2;1;C.M. Cosamai
+2026-09-26;3;C.D. Toralense;"C.D. La Virgen del Camino ""B""";2;1;C.M. La Mata
+2026-09-26;3;C.D.F. Eria;C.D. Arenas de Vega de Espinareda;2;2;C.M. El Humeral
+2026-09-26;3;C.D. Fabero;Atlético Pinilla;3;0;C.M. Fabero
+2026-09-27;3;C.D. Onzonilla;C.D. Ejido;2;2;C.M.D. La Vega 1
+2026-09-27;3;C.D. Laciana;C.D. Naraya de Halterofilia;6;1;C.M. Villablino
+2026-09-27;3;C.D. Coyanza;Atlético Puente Castro;1;0;C.M. Valencia de Don Juan
+2026-09-27;3;Atlético Trobajo H;"C. y D. Leonesa S.A.D. ""C""";2;2;C.M. Rafa Tejerina
+2026-10-03;4;C.D. Toreno;Atlético Trobajo H;1;3;C.M. El Campón
+2026-10-03;4;Atlético Pinilla;C.D. Coyanza;1;2;C.M. Emilio González
+2026-10-03;4;"C.D. La Virgen del Camino ""B""";C.D. Onzonilla;3;0;Los Dominicos
+2026-10-03;4;C.D. Naraya de Halterofilia;C.D. Fabero;2;1;C.M. Francisco Sobrín
+2026-10-03;4;Atlético Puente Castro;Santa Ana F.S.;1;1;C.M. Puente Castro 2
+2026-10-04;4;C.D. Ejido;C.D.F. Eria;0;3;C.M. La Granja
+2026-10-04;4;"C. y D. Leonesa S.A.D. ""C""";C.D. Toralense;2;1;Area D. de Puente Castro 3
+2026-10-04;4;C.D. Arenas de Vega de Espinareda;C.D. Laciana;2;2;C.M. Luis del Olmo
+2026-10-10;5;Santa Ana F.S.;Atlético Pinilla;0;3;C.M. Cosamai
+2026-10-10;5;Atlético Trobajo H;C.D. Toralense;0;1;C.M. Rafa Tejerina
+2026-10-10;5;C.D. Toreno;Atlético Puente Castro;1;1;C.M. El Campón
+2026-10-10;5;C.D. Laciana;C.D. Ejido;2;0;C.M. Villablino
+2026-10-10;5;C.D. Coyanza;C.D. Naraya de Halterofilia;3;0;C.M. Valencia de Don Juan
+2026-10-10;5;C.D.F. Eria;"C.D. La Virgen del Camino ""B""";3;3;C.M. El Humeral
+2026-10-11;5;C.D. Onzonilla;"C. y D. Leonesa S.A.D. ""C""";0;1;C.M.D. La Vega 1
+2026-10-11;5;C.D. Fabero;C.D. Arenas de Vega de Espinareda;3;1;C.M. Fabero
+2026-10-17;6;"C.D. La Virgen del Camino ""B""";C.D. Laciana;0;2;Los Dominicos
+2026-10-17;6;C.D. Naraya de Halterofilia;Santa Ana F.S.;5;2;C.M. Francisco Sobrín
+2026-10-17;6;C.D. Toralense;C.D. Onzonilla;1;1;C.M. La Mata
+2026-10-18;6;C.D. Ejido;C.D. Fabero;2;3;C.M. La Granja
+2026-10-18;6;C.D. Arenas de Vega de Espinareda;C.D. Coyanza;5;2;C.M. Luis del Olmo
+2026-10-18;6;Atlético Pinilla;C.D. Toreno;3;2;C.M. Emilio González
+2026-10-18;6;"C. y D. Leonesa S.A.D. ""C""";C.D.F. Eria;2;4;Area D. de Puente Castro 3
+2026-10-18;6;Atlético Puente Castro;Atlético Trobajo H;3;2;C.M. Puente Castro 2
+2026-10-24;7;Atlético Puente Castro;Atlético Pinilla;3;1;C.M. Puente Castro 2
+2026-10-24;7;Santa Ana F.S.;C.D. Arenas de Vega de Espinareda;2;1;C.M. Cosamai
+2026-10-24;7;C.D. Toreno;C.D. Naraya de Halterofilia;1;3;C.M. El Campón
+2026-10-24;7;C.D. Fabero;"C.D. La Virgen del Camino ""B""";1;0;C.M. Fabero
+2026-10-24;7;C.D.F. Eria;C.D. Toralense;2;2;C.M. El Humeral
+2026-10-25;7;Atlético Trobajo H;C.D. Onzonilla;2;0;C.M. Rafa Tejerina
+2026-10-25;7;C.D. Coyanza;C.D. Ejido;3;2;C.M. Valencia de Don Juan
+2026-10-25;7;C.D. Laciana;"C. y D. Leonesa S.A.D. ""C""";1;2;C.M. Villablino
+2026-10-31;8;Atlético Pinilla;Atlético Trobajo H;1;6;C.M. Emilio González
+2026-10-31;8;C.D. Naraya de Halterofilia;Atlético Puente Castro;5;1;C.M. Francisco Sobrín
+2026-10-31;8;C.D. Ejido;Santa Ana F.S.;2;0;C.M. La Granja
+2026-10-31;8;C.D. Toralense;C.D. Laciana;3;2;C.M. La Mata
+2026-10-31;8;C.D. Onzonilla;C.D.F. Eria;3;1;C.M.D. La Vega 1
+2026-10-31;8;"C. y D. Leonesa S.A.D. ""C""";C.D. Fabero;1;2;Area D. de Puente Castro 3
+2026-11-01;8;C.D. Arenas de Vega de Espinareda;C.D. Toreno;3;1;C.M. Luis del Olmo
+2026-11-01;8;"C.D. La Virgen del Camino ""B""";C.D. Coyanza;2;2;Los Dominicos
+2026-11-07;9;Santa Ana F.S.;"C.D. La Virgen del Camino ""B""";0;1;C.M. Cosamai
+2026-11-07;9;Atlético Puente Castro;C.D. Arenas de Vega de Espinareda;2;2;C.M. Puente Castro 2
+2026-11-07;9;C.D. Toreno;C.D. Ejido;1;2;C.M. El Campón
+2026-11-07;9;C.D. Coyanza;"C. y D. Leonesa S.A.D. ""C""";0;3;C.M. Valencia de Don Juan
+2026-11-07;9;C.D. Laciana;C.D. Onzonilla;4;2;C.M. Villablino
+2026-11-07;9;C.D. Fabero;C.D. Toralense;3;1;C.M. Fabero

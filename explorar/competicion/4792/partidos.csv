@@ -1,0 +1,43 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;C.D. San José;Gimnástica Segoviana S.A.D.;5;0;C.M. San Juan
+2026-09-19;1;C.D. Navega;Olímpico de León;1;8;C.M. Vicente del Bosque de Salamanca
+2026-09-19;1;C.D. Ponferrada Fútbol;C.D. Villa de Simancas;0;6;C.M. Ramón Martínez 1
+2026-09-20;1;Atlético de Laguna Lince;Unionistas de Salamanca C.F.;3;0;E.M. La Laguna
+2026-09-20;1;C.D. Parquesol;C.D. Bovedana;1;4;C.M. Jose Luis Saso
+2026-09-20;1;"Burgos C.F. S.A.D. ""B""";C.D. Salamanca Fútbol Femenino;0;2;C.D. de Castañares 3
+2026-09-20;1;C.D. Palencia Fútbol Femenino;Capiscol C.F.;1;1;C.M. El Otero
+2026-09-26;2;Olímpico de León;"Burgos C.F. S.A.D. ""B""";0;2;Olímpico de León
+2026-09-26;2;Gimnástica Segoviana S.A.D.;C.D. Ponferrada Fútbol;2;4;C.M. Mariano Gutiérrez Chocolate
+2026-09-26;2;C.D. Bovedana;C.D. San José;4;1;C.M. Bóveda de Toro
+2026-09-27;2;Capiscol C.F.;C.D. Navega;3;0;C.M. José Manuel Sedano
+2026-09-27;2;Atlético de Laguna Lince;C.D. Palencia Fútbol Femenino;1;2;E.M. La Laguna
+2026-09-27;2;C.D. Salamanca Fútbol Femenino;C.D. Parquesol;4;5;C.M. Vicente del Bosque de Salamanca
+2026-09-27;2;C.D. Villa de Simancas;Unionistas de Salamanca C.F.;2;1;C.M.D. Los Pinos 1
+2026-10-03;3;C.D. San José;C.D. Salamanca Fútbol Femenino;1;3;C.M. San Juan
+2026-10-03;3;C.D. Ponferrada Fútbol;C.D. Bovedana;0;2;C.M. Ramón Martínez 1
+2026-10-03;3;C.D. Navega;"Burgos C.F. S.A.D. ""B""";0;3;C.M. Vicente del Bosque de Salamanca
+2026-10-04;3;Capiscol C.F.;Atlético de Laguna Lince;0;0;C.M. José Manuel Sedano
+2026-10-04;3;C.D. Parquesol;Olímpico de León;2;10;C.M. Jose Luis Saso
+2026-10-04;3;C.D. Palencia Fútbol Femenino;C.D. Villa de Simancas;0;5;C.M. El Otero
+2026-10-04;3;Unionistas de Salamanca C.F.;Gimnástica Segoviana S.A.D.;2;0;C.M. Anexos Reina Sofía
+2026-10-10;4;Olímpico de León;C.D. San José;8;0;Olímpico de León
+2026-10-10;4;Gimnástica Segoviana S.A.D.;C.D. Palencia Fútbol Femenino;2;5;C.M. Mariano Gutiérrez Chocolate
+2026-10-10;4;C.D. Bovedana;Unionistas de Salamanca C.F.;3;0;C.M. Bóveda de Toro
+2026-10-10;4;"Burgos C.F. S.A.D. ""B""";C.D. Parquesol;6;0;C.D. de Castañares 3
+2026-10-10;4;C.D. Villa de Simancas;Capiscol C.F.;9;0;C.M.D. Los Pinos 1
+2026-10-11;4;Atlético de Laguna Lince;C.D. Navega;6;2;E.M. La Laguna
+2026-10-11;4;C.D. Salamanca Fútbol Femenino;C.D. Ponferrada Fútbol;4;0;C.M. Vicente del Bosque de Salamanca
+2026-10-17;5;C.D. Ponferrada Fútbol;Olímpico de León;0;2;C.M. Ramón Martínez 1
+2026-10-17;5;Unionistas de Salamanca C.F.;C.D. Salamanca Fútbol Femenino;3;2;C.M. Anexos Reina Sofía
+2026-10-17;5;C.D. Navega;C.D. Parquesol;3;4;C.M. Vicente del Bosque de Salamanca
+2026-10-18;5;Atlético de Laguna Lince;C.D. Villa de Simancas;0;2;E.M. La Laguna
+2026-10-18;5;Capiscol C.F.;Gimnástica Segoviana S.A.D.;3;0;C.M. José Manuel Sedano
+2026-10-18;5;C.D. San José;"Burgos C.F. S.A.D. ""B""";0;1;C.M. San Juan
+2026-10-18;5;C.D. Palencia Fútbol Femenino;C.D. Bovedana;0;5;C.M. El Otero
+2026-10-24;6;Olímpico de León;Unionistas de Salamanca C.F.;4;2;Olímpico de León
+2026-10-25;6;C.D. Salamanca Fútbol Femenino;C.D. Palencia Fútbol Femenino;8;1;C.M. Vicente del Bosque de Salamanca
+2026-10-25;6;"Burgos C.F. S.A.D. ""B""";C.D. Ponferrada Fútbol;3;2;C.D. de Castañares 3
+2026-10-25;6;C.D. Parquesol;C.D. San José;4;4;C.M. Jose Luis Saso
+2026-10-25;6;C.D. Bovedana;Capiscol C.F.;5;0;C.M. Bóveda de Toro
+2026-10-25;6;Gimnástica Segoviana S.A.D.;Atlético de Laguna Lince;0;6;C.M. Mariano Gutiérrez Chocolate
+2026-10-25;6;C.D. Villa de Simancas;C.D. Navega;7;1;C.M.D. Los Pinos 1

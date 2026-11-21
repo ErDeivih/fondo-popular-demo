@@ -1,0 +1,49 @@
+fecha;jornada;local;visitante;goles_local;goles_visitante;campo
+2026-09-19;1;"C.D. Unión Arroyo ""E""";"U.D. Sur ""C""";0;7;C.M. La Vega 2
+2026-09-19;1;"Victoria C.F. ""D""";"C.D. Laguna ""C""";2;7;C.M. Luis Minguela 1.1
+2026-09-19;1;"C.D. San José Jesuitas ""D""";"C.D. San Agustín Valladolid ""C""";1;10;C.M.D. Borja Lara 2
+2026-09-19;1;"Gimnástica Medinense ""C""";"C.D. Betis Pisuerga ""C""";3;1;C.M. Diego Carbajosa 1.1
+2026-09-19;1;"Atlético de Laguna ""C""";"Atlético Tordesillas ""C""";8;0;Anexos E.M. La Laguna 2
+2026-09-20;1;"Betis C.F. ""C""";"C.D. Juventud Rondilla ""D""";12;1;C.M. Los Escoceses 1.1
+2026-09-26;2;"Atlético Tordesillas ""C""";"Betis C.F. ""C""";0;9;Anexos E.M. Las Salinas 1.2
+2026-09-26;2;"U.D. Sur ""C""";"C.D. San José Jesuitas ""D""";11;0;C.M. Miguel Martín Luquero 1
+2026-09-26;2;"C.D. Laguna ""C""";"C.D. Boecillo ""C""";4;2;Anexos E.M. La Laguna 2
+2026-09-27;2;"C.D. San Agustín Valladolid ""C""";"Victoria C.F. ""D""";3;0;C.M. Hermanos Lesmes 1.2
+2026-09-27;2;"C.D. Juventud Rondilla ""D""";"Gimnástica Medinense ""C""";4;6;C.M. La Ribera 2
+2026-09-27;2;"C.D. Betis Pisuerga ""C""";"C.D. Unión Arroyo ""E""";1;13;C.M. Los Escoceses 1.1
+2026-10-03;3;"C.D. Juventud Rondilla ""D""";"Atlético Tordesillas ""C""";2;1;C.M. La Ribera 1.1
+2026-10-04;3;"C.D. Boecillo ""C""";"C.D. San Agustín Valladolid ""C""";3;5;Campo de Fútbol C.M. Fernando Calero 1.1
+2026-10-04;3;"C.D. San José Jesuitas ""D""";"C.D. Betis Pisuerga ""C""";1;0;C.M.D. Borja Lara 2
+2026-10-04;3;"Atlético de Laguna ""C""";"C.D. Laguna ""C""";1;1;Anexos E.M. La Laguna 2
+2026-10-04;3;"Victoria C.F. ""D""";"U.D. Sur ""C""";1;7;C.M. Luis Minguela 2
+2026-10-04;3;"Gimnástica Medinense ""C""";"C.D. Unión Arroyo ""E""";3;3;C.M. Diego Carbajosa 1.1
+2026-10-10;4;"C.D. San Agustín Valladolid ""C""";"Atlético de Laguna ""C""";3;5;C.M. Hermanos Lesmes 1.1
+2026-10-10;4;"U.D. Sur ""C""";"C.D. Boecillo ""C""";2;0;C.M. Miguel Martín Luquero 1
+2026-10-10;4;"Atlético Tordesillas ""C""";"Gimnástica Medinense ""C""";1;4;Anexos E.M. Las Salinas 1.2
+2026-10-11;4;"C.D. Betis Pisuerga ""C""";"Victoria C.F. ""D""";2;3;C.M. Los Escoceses 1.1
+2026-10-11;4;"C.D. Unión Arroyo ""E""";"C.D. San José Jesuitas ""D""";5;2;C.M. La Vega 2
+2026-10-11;4;"C.D. Laguna ""C""";"Betis C.F. ""C""";0;2;Anexos E.M. La Laguna 2
+2026-10-17;5;"C.D. Boecillo ""C""";"C.D. Betis Pisuerga ""C""";6;2;Campo de Fútbol C.M. Fernando Calero 1.1
+2026-10-17;5;"Victoria C.F. ""D""";"C.D. Unión Arroyo ""E""";2;4;C.M. Luis Minguela 2
+2026-10-17;5;"Gimnástica Medinense ""C""";"C.D. San José Jesuitas ""D""";6;1;C.M. Diego Carbajosa 1.1
+2026-10-17;5;"C.D. Juventud Rondilla ""D""";"C.D. Laguna ""C""";0;6;C.M. La Ribera 2
+2026-10-18;5;"Betis C.F. ""C""";"C.D. San Agustín Valladolid ""C""";3;3;C.M. Los Escoceses 1.2
+2026-10-18;5;"Atlético de Laguna ""C""";"U.D. Sur ""C""";2;1;Anexos E.M. La Laguna 2
+2026-10-24;6;"U.D. Sur ""C""";"Betis C.F. ""C""";2;6;C.M. Miguel Martín Luquero 1
+2026-10-24;6;"C.D. San Agustín Valladolid ""C""";"C.D. Juventud Rondilla ""D""";5;2;C.M. Hermanos Lesmes 1.1
+2026-10-24;6;"C.D. Betis Pisuerga ""C""";"Atlético de Laguna ""C""";0;9;C.M. Los Escoceses 1.1
+2026-10-24;6;"C.D. San José Jesuitas ""D""";"Victoria C.F. ""D""";1;4;C.M.D. Borja Lara 2
+2026-10-25;6;"C.D. Unión Arroyo ""E""";"C.D. Boecillo ""C""";3;6;C.M. La Vega 2
+2026-10-25;6;"C.D. Laguna ""C""";"Atlético Tordesillas ""C""";3;1;Anexos E.M. La Laguna 2
+2026-11-06;7;"Betis C.F. ""C""";"C.D. Betis Pisuerga ""C""";12;0;C.M. Los Escoceses 1.1
+2026-11-07;7;"Atlético Tordesillas ""C""";"C.D. San Agustín Valladolid ""C""";2;2;Anexos E.M. Las Salinas 1.1
+2026-11-08;7;"Atlético de Laguna ""C""";"C.D. Unión Arroyo ""E""";2;3;Anexos E.M. La Laguna 2
+2026-11-08;7;"C.D. Boecillo ""C""";"C.D. San José Jesuitas ""D""";10;2;Campo de Fútbol C.M. Fernando Calero 1.1
+2026-11-08;7;"C.D. Juventud Rondilla ""D""";"U.D. Sur ""C""";0;10;C.M. La Ribera 2
+2026-11-08;7;"Gimnástica Medinense ""C""";"Victoria C.F. ""D""";5;2;C.M. Diego Carbajosa 1.1
+2026-11-14;8;"C.D. San José Jesuitas ""D""";"Atlético de Laguna ""C""";1;8;C.M.D. Borja Lara 2
+2026-11-14;8;"Victoria C.F. ""D""";"C.D. Boecillo ""C""";5;2;C.M. Luis Minguela 1.1
+2026-11-15;8;"C.D. Betis Pisuerga ""C""";"C.D. Juventud Rondilla ""D""";4;3;C.M. Los Escoceses 1.1
+2026-11-15;8;"C.D. Laguna ""C""";"Gimnástica Medinense ""C""";2;2;Anexos E.M. La Laguna 2
+2026-11-15;8;"U.D. Sur ""C""";"Atlético Tordesillas ""C""";5;3;C.M. Miguel Martín Luquero 1
+2026-11-15;8;"C.D. Unión Arroyo ""E""";"Betis C.F. ""C""";2;5;C.M. La Vega 2
